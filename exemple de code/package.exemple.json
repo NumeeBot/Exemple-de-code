@@ -1,0 +1,13 @@
+{
+  "name" : "exemple",
+  "version" : "1.0.0",
+  "main" : "exemple.js",
+  "scripts":{
+    "start": "node server.js"
+   },
+   "author" : "Highway Traffic",
+   "license" : "ISC",
+   "depencies" : {
+      "discord.js" : "11.1.0"
+   }
+}
