@@ -7,7 +7,7 @@
    },
    "author" : "Highway Traffic",
    "license" : "ISC",
-   "depencies" : {
+   "dependencies" : {
       "discord.js" : "11.1.0"
    }
 }
